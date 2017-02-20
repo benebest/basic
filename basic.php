@@ -17,7 +17,6 @@ use Maslosoft\Menulis\Widgets\Menu\PageLinks;
 				<div class="col-sm-2 col-xs-4" >
 					<a class="logo-img" href="/" title="">
 					</a>
-					<a href="/stage/" class="stage hidden-xs">dev</a>
 				</div>
 				<div class="col-sm-7 col-xs-8" id="menuBg">
 					<?php
