@@ -1,10 +1,10 @@
 <?php
 
-use Maslosoft\Ilmatar\Components\Application;
-use Maslosoft\Ilmatar\Components\Controller;
-use Maslosoft\Ilmatar\Widgets\Breadcrumbs;
-use Maslosoft\Ilmatar\Widgets\Html\Decorator;
-use Maslosoft\Ilmatar\Widgets\Search\SearchDrawer;
+use Maslosoft\Components\Application;
+use Maslosoft\Components\Controller;
+use Maslosoft\Widgets\Breadcrumbs;
+use Maslosoft\Widgets\Html\Decorator;
+use Maslosoft\Widgets\Search\SearchDrawer;
 use Maslosoft\Menulis\Widgets\Menu\LinkBlocks;
 use Maslosoft\Menulis\Widgets\Menu\PageLinks;
 
