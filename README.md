@@ -1,2 +1,2 @@
 # Basic Theme
-Basic theme for [meno.pro](https://meno.pro/)
+Basic theme for [Bene Best](https://bene.best/)
